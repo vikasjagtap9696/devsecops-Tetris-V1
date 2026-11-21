@@ -2,7 +2,7 @@
 
 A complete DevSecOps pipeline that provisions infrastructure with **Terraform**, scans code and images with **SonarQube, OWASP Dependency-Check and Trivy**, builds and pushes a Docker image with **Jenkins**, and deploys to **AWS EKS** using **ArgoCD**.
 
-![Architecture](architecture.png)
+![Architecture](architecture.gif)
 
 ---
 
